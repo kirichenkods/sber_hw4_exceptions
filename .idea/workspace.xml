@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9ae844f0-a79f-4768-a806-b4be968dcc7d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sber_hw4_Exception1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task1/AccountIsLockedException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task1/PinValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task1/Terminal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task1/TerminalImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task1/TerminalServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task1/UserInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task1/UserInterfaceConsole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task2/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2aY4gl92XL82kFRt6rsgQBzq2ak" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;TODO_SCOPE&quot;: &quot;All Places&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/projects/Sber_hw4_Exception1&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9ae844f0-a79f-4768-a806-b4be968dcc7d" name="Changes" comment="" />
+      <created>1704482293727</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704482293727</updated>
+      <workItem from="1704482294911" duration="2770000" />
+      <workItem from="1704550368676" duration="1806000" />
+      <workItem from="1704702903058" duration="60000" />
+      <workItem from="1704999148240" duration="2490000" />
+      <workItem from="1705074514740" duration="4650000" />
+      <workItem from="1705140990140" duration="14000" />
+      <workItem from="1705173534526" duration="3737000" />
+      <workItem from="1705216809865" duration="2839000" />
+      <workItem from="1705257712595" duration="5054000" />
+      <workItem from="1705330079639" duration="5731000" />
+      <workItem from="1705425139585" duration="9903000" />
+      <workItem from="1705435766830" duration="212000" />
+      <workItem from="1705509638493" duration="1349000" />
+      <workItem from="1705511021585" duration="5461000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
